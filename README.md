@@ -1,4 +1,4 @@
-# PHP Community Guidance
+# PHP Human Interoperability Group
 
 ## Purpose
 
@@ -12,7 +12,7 @@ conflicts openly, honestly, and civilly.
 
 ## Communities
 
-### \#\#phpcg (Freenode)
+### \#php-hig (Freenode)
 
 This channel is intended as the forum in which to discuss this project itself.
 
@@ -107,3 +107,11 @@ administrative group of this community should be based entirely on the merit of
 the individual as a community leader. The attributes that should be considered
 above all else are fairness, influence, involvement, and trustworthiness. What
 should never be considered are personal politics or popularity.
+
+#### Equality of Access
+
+The administration of this community should not be hierarchical. If a community
+member is to be entrusted with any access to administrative resources, they
+should be entrusted with access to all administrative resources. Use of
+administrative access for the purposes of retribution or political
+manipulation should be considered a grave abuse of power.
