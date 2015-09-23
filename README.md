@@ -65,6 +65,15 @@ Generally speaking, content and discussion should be constructive in nature.
 While open personal disagreements are not disallowed, they are to be discouraged
 if they are not bringing those involved closer to a better understanding.
 
+#### On-Topic
+
+The only restriction on topic that should be applied is to do with whether
+there is a better resource for information/discussion. If a discussion would
+clearly be better had in a different specific forum, then the participants
+should be politely informed of that. As an example, if someone is asking
+for help with a specific framework, and an active channel exists for that
+framework, they should be guided there instead.
+
 ### Administration
 
 #### Apolitical
