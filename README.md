@@ -89,3 +89,11 @@ As much as possible, the administrators of this community should have widely
 ranging views. Otherwise, it is very likely that individual views will
 sway collective actions. This community is intended to represent and include
 everyone, regardless of whether or not you respect the things they believe.
+
+#### Meritocratic
+
+Consideration of whether or not someone should be accepted into the
+administrative group of this community should be based entirely on the merit of
+the individual as a community leader. The attributes that should be considered
+above all else are fairness, influence, involvement, and trustworthiness. What
+should never be considered are personal politics or popularity.
