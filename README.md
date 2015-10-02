@@ -25,7 +25,7 @@ provided is effective and clear.
 ### \#\#phptalk (Freenode)
 
 This channel is intended as a general PHP community channel, akin to the
-existing \#\#phpc channel, but more inclusive of all views, so long as those
+existing \#phpc channel, but more inclusive of all views, so long as those
 views are expressed in a civil manner. Debate, criticism, politics, and general
 friendliness are all expressly encouraged.
 
@@ -57,7 +57,7 @@ but not violating any established aspect of this code, the way they are being
 disruptive should be considered for exclusion in this code. Punishment should
 never be meted out on an individual basis in excess of what is allowed by this
 code. Anything that excludes someone from being involved in the PHP community
-should be egegrious and continuing in nature.
+should be egregious and persistent in nature.
 
 #### Constructive Content
 
@@ -100,7 +100,7 @@ sway collective actions. This community is intended to represent and include
 everyone, regardless of whether or not the things they believe are
 well-respected.
 
-#### Meritocratic
+#### Meritocracy
 
 Consideration of whether or not someone should be accepted into the
 administrative group of this community should be based entirely on the merit of
